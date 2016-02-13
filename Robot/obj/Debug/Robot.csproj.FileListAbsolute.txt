@@ -1,0 +1,4 @@
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\Robot\bin\Debug\Robot.dll
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\Robot\bin\Debug\Robot.pdb
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\Robot\obj\Debug\Robot.dll
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\Robot\obj\Debug\Robot.pdb

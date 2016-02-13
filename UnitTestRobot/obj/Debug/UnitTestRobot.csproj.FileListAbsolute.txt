@@ -1,0 +1,7 @@
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\UnitTestRobot\bin\Debug\UnitTestRobot.dll
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\UnitTestRobot\bin\Debug\UnitTestRobot.pdb
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\UnitTestRobot\bin\Debug\Robot.dll
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\UnitTestRobot\bin\Debug\Robot.pdb
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\UnitTestRobot\obj\Debug\UnitTestRobot.csprojResolveAssemblyReference.cache
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\UnitTestRobot\obj\Debug\UnitTestRobot.dll
+c:\users\satnami\documents\visual studio 2013\Projects\RobotCleaner\UnitTestRobot\obj\Debug\UnitTestRobot.pdb
